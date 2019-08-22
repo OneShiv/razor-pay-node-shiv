@@ -1,0 +1,17 @@
+{
+  "name": "razor-pay-poc",
+  "version": "1.0.0",
+  "description": "making a node api and checking in test mode if payment is working",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "razorpay"
+  ],
+  "author": "shivshankar shejwal",
+  "license": "MIT",
+  "dependencies": {
+    "razorpay": "^2.0.5"
+  }
+}
